@@ -1,0 +1,33 @@
+node_modules/
+
+# React Native / Android build output
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/**/build/
+*.apk
+*.aab
+
+# Flutter/Dart generated output
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# IDE and local machine files
+.idea/
+.vscode/
+*.iml
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+gradle-stacktrace.txt
+
+# Environment files
+.env
+.env.*
+!.env.example
