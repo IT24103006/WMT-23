@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------
-// File: record_purchase_screen.dart
+// File: record_purchase_screen react native 
 // Purpose: Complex Batch Procurement and Inventory Intake Engine.
 // Rationale: Manages the end-to-end lifecycle of stock acquisition from 
 //   external suppliers. Supports dynamic multi-product line items, advanced 
