@@ -1,11 +1,11 @@
-﻿// ------------------------------------------------------------------------------
+﻿// -----------------------------------------------------------------------
 // File: admin_shell.dart
 // Purpose: Multi-section navigation container for the Administrative interface.
 // Rationale: Implements the root persistence hub for Admin-level screens.
 //   Orchestrates cross-module synchronization (Owners, Health, Feedback) and 
 //   maintains view state continuity via IndexedStack. Acts as the gateway for 
 //   platform-wide system governance.
-// ------------------------------------------------------------------------------
+// ----------------------------------------------------------------------
 import 'dart:ui'; // UI: Layout filters and image effects
 import 'package:flutter/material.dart'; // UI: Material toolkit
 import 'package:provider/provider.dart'; // State: Dependency injection system
