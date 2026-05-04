@@ -1,10 +1,10 @@
-// ------------------------------------------------------------------------------
+// ------------------------------------------------------------------------
 // File: owner_pdf_utils.dart
 // Purpose: Administrative business intelligence and data export service.
 // Rationale: Facilitates the generation of standardized PDF reports for the 
 //   platform's store owner database. Supports status-based filtering and 
 //   implements layout logic compatible with the 'pdf' and 'printing' packages.
-// ------------------------------------------------------------------------------
+// -----------------------------------------------------------------------
 import 'package:pdf/pdf.dart'; // Domain: PDF color and page format constants
 import 'package:pdf/widgets.dart' as pw; // Domain: PDF widget primitives
 import 'package:printing/printing.dart'; // Infrastructure: Platform-native print spools
