@@ -1,5 +1,5 @@
 ﻿// ------------------------------------------------------------------------------
-// File: supplier_repository_impl.dart
+//supplier repo react-native 
 // Purpose: Concrete implementation of supplier data operations via REST API.
 // Rationale: Translates domain-level CRUD for supplier profiles and summary
 //   statistics into HTTP calls via ApiClient.
