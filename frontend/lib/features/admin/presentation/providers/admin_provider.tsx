@@ -1,11 +1,11 @@
-// ------------------------------------------------------------------------------
+// -------------------------------------------------------------
 // File: admin_provider.dart
 // Purpose: Centralized state management for global administrative operations.
 // Rationale: Orchestrates high-level system control including store owner 
 //   lifecycle (fetch, suspend, delete) and real-time MongoDB health monitoring.
 //   Directly utilizes ApiClient to bypass feature-specific repositories for 
 //   platform-wide administrative agility.
-// ------------------------------------------------------------------------------
+// --------------------------------------------------------------
 import 'package:flutter/material.dart'; // UI: Flutter Material & ChangeNotifier
 import 'package:frontend/core/error/exceptions.dart'; // Core: Structured error handling
 import 'package:frontend/core/network/api_client.dart'; // Network: Global API operations
