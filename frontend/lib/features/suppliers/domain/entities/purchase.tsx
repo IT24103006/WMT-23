@@ -1,5 +1,5 @@
 ﻿// ------------------------------------------------------------------------------
-// File: purchase.dart
+// File: purchase react native
 // Purpose: Domain entity representing a single inventory restock transaction.
 // Rationale: Models the full lifecycle of a supplier purchase including line
 //   items, tax, payment status, and residual debt. Used across Supplier
