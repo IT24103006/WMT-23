@@ -1,5 +1,5 @@
 ﻿// ------------------------------------------------------------------------------
-// File: purchase_repository_impl.dart
+// purchase repo react native 
 // Purpose: Concrete implementation of purchase data operations via REST API.
 // Rationale: Translates domain-level CRUD for purchase records, supplier-
 //   scoped queries, and settlement actions into HTTP calls via ApiClient.
