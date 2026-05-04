@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------
-// File: supplier_management_screen.dart
+// File: supplier_management_screen react native 
 // Purpose: Multi-Faceted Procurement Hub and Partner Logistics.
 // Rationale: Centralizes the management of business partner profiles and 
 //   restock history through a unified tabbed interface. Orchestrates 
