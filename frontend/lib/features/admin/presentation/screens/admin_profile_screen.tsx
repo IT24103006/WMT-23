@@ -1,10 +1,10 @@
-// ------------------------------------------------------------------------------
+// ------------------------------------------------------------------
 // File: admin_profile_screen.dart
 // Purpose: PII management and credential rotation for Administrators.
 // Rationale: Handles the sensitive identity mutation flow for system admins.
 //   Ensures atomic updates of contact metadata and secure password hashing
 //   propagation to the Auth provider.
-// ------------------------------------------------------------------------------
+// -------------------------------------------------------------------
 import 'package:flutter/material.dart'; // UI: Material framework
 import 'package:provider/provider.dart'; // State: Dependency injection
 import 'package:frontend/features/auth/presentation/providers/auth_provider.dart'; // State: Identity source of truth
