@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------
-// File: supplier_provider.dart
+// File: supplier_provider rect native 
 // Purpose: Supplier Lifecycle and Procurement Financial Governance.
 // Rationale: Orchestrates the supplier ecosystem, tracking directory data, 
 //   active procurement relationships, and aggregate "Total Payable" balances. 
