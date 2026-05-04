@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------
-// File: add_supplier_screen.dart
+// File: add_supplier_screen react native
 // Purpose: Dual-Purpose Business Partner Registration Interface.
 // Rationale: Facilitates both the onboarding of new suppliers and the 
 //   modification of existing partner profiles. Integrates with the 
