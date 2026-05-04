@@ -1,11 +1,11 @@
-// ------------------------------------------------------------------------------
+// ---------------------------------------------------------------------
 // File: admin_account_screen.dart
 // Purpose: Administrative profile and system-wide settings navigation hub.
 // Rationale: Acts as the secondary control interface where administrators 
 //   manage their personal security (PII), invoke disaster recovery (Backup), 
 //   and review legal/privacy guidelines. Implements a high-contrast theme 
 //   distinct from the standard store-owner interface.
-// ------------------------------------------------------------------------------
+// --------------------------------------------------------------------
 import 'package:flutter/material.dart'; // UI: Material framework
 import 'package:provider/provider.dart'; // State: Reactive dependency consumption
 import 'package:frontend/features/auth/presentation/providers/auth_provider.dart'; // State: Identity source of truth
