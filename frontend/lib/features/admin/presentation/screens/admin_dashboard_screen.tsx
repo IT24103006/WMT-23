@@ -1,10 +1,10 @@
-// ------------------------------------------------------------------------------
+// ---------------------------------------------------------------------
 // File: admin_dashboard_screen.dart
 // Purpose: Executive summary and control center for system administrators.
 // Rationale: Provides real-time visibility into platform metrics (Store counts,
 //   System Health, Pending Feedback) and serves as the primary navigation hub
 //   for global governance tasks.
-// ------------------------------------------------------------------------------
+// ---------------------------------------------------------------------
 // UI: Flutter Material widgets
 import 'package:flutter/material.dart';
 // State: Provider reactive dependency injection
