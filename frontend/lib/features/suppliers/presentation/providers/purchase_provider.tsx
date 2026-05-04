@@ -1,5 +1,5 @@
 // ------------------------------------------------------------------------------
-// File: purchase_provider.dart
+// File: purchase_provider react native 
 // Purpose: Procurement Lifecycle and Inventory Inflow Governance.
 // Rationale: Centralizes the management of supplier purchase records, 
 //   facilitating restock history audits, supplier-scoped transaction queries, 
